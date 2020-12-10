@@ -17,7 +17,6 @@
         ]
     },
     "devDependencies": {
-        "jquery": "3.5.1",
         "@babel/cli": "^7.7.5",
         "@babel/core": "^7.7.5",
         "@babel/node": "^7.7.4",
